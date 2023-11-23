@@ -1,0 +1,175 @@
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.csproj.AssemblyReference.cache
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.AssemblyInfoInputs.cache
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.AssemblyInfo.cs
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.csproj.CoreCompileInputs.cache
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\TechnicalAssessmentAPI.exe
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\TechnicalAssessmentAPI.deps.json
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\TechnicalAssessmentAPI.runtimeconfig.json
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\TechnicalAssessmentAPI.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\TechnicalAssessmentAPI.pdb
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\BCrypt.Net-Core.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\EPPlus.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Config.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Dependences.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Domain.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Infrastructure.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Config.pdb
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Dependences.pdb
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\staticwebassets\msbuild.TechnicalAssessmentAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TechnicalAssessmentAPI.props
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TechnicalAssessmentAPI.props
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TechnicalAssessmentAPI.props
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\scopedcss\bundle\TechnicalAssessmentAPI.styles.css
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.csproj.CopyComplete
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\refint\TechnicalAssessmentAPI.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.pdb
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.genruntimeconfig.cache
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\ref\TechnicalAssessmentAPI.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.csproj.AssemblyReference.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.AssemblyInfoInputs.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.AssemblyInfo.cs
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.csproj.CoreCompileInputs.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\refint\TechnicalAssessmentAPI.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\TechnicalAssessmentAPI.exe
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\TechnicalAssessmentAPI.deps.json
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\TechnicalAssessmentAPI.runtimeconfig.json
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\TechnicalAssessmentAPI.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\TechnicalAssessmentAPI.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\BCrypt.Net-Core.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\EPPlus.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Config.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Dependences.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Domain.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Infrastructure.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Config.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Dependences.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\staticwebassets\msbuild.TechnicalAssessmentAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.TechnicalAssessmentAPI.props
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TechnicalAssessmentAPI.props
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TechnicalAssessmentAPI.props
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\scopedcss\bundle\TechnicalAssessmentAPI.styles.css
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.csproj.CopyComplete
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\TechnicalAssessmentAPI.genruntimeconfig.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\obj\Debug\net7.0\ref\TechnicalAssessmentAPI.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\TechnicalAssessmentAPI\bin\Debug\net7.0\NSwag.Annotations.dll

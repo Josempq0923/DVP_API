@@ -1,0 +1,54 @@
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.deps.json
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\refint\App.Infrastructure.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\ref\App.Infrastructure.dll
+D:\demo\InfoDesign\LoadExcelProject\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.deps.json
+D:\demo\InfoDesign\LoadExcelProject\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.dll
+D:\demo\InfoDesign\LoadExcelProject\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.pdb
+D:\demo\InfoDesign\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.AssemblyReference.cache
+D:\demo\InfoDesign\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo\InfoDesign\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfoInputs.cache
+D:\demo\InfoDesign\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfo.cs
+D:\demo\InfoDesign\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+D:\demo\InfoDesign\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.dll
+D:\demo\InfoDesign\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\refint\App.Infrastructure.dll
+D:\demo\InfoDesign\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.pdb
+D:\demo\InfoDesign\LoadExcelProject\App.Infrastructure\obj\Debug\net7.0\ref\App.Infrastructure.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.deps.json
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Infrastructure\bin\Debug\net7.0\App.Config.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Infrastructure\bin\Debug\net7.0\App.Config.pdb
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\refint\App.Infrastructure.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\ref\App.Infrastructure.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.deps.json
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Infrastructure\bin\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Infrastructure\bin\Debug\net7.0\App.Config.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Infrastructure\bin\Debug\net7.0\App.Config.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.AssemblyInfo.cs
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.csproj.CopyComplete
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\refint\App.Infrastructure.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Infrastructure\obj\Debug\net7.0\ref\App.Infrastructure.dll

@@ -1,0 +1,76 @@
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Dependences.deps.json
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Dependences.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Dependences.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Config.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Domain.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Infrastructure.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Config.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.csproj.AssemblyReference.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.AssemblyInfoInputs.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.AssemblyInfo.cs
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.csproj.CoreCompileInputs.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.csproj.CopyComplete
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\obj\Debug\net7.0\refint\App.Dependences.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\PruebaExcel\LoadExcelProject\App.Dependences\obj\Debug\net7.0\ref\App.Dependences.dll
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Dependences.deps.json
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Dependences.dll
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Dependences.pdb
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Config.dll
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Domain.dll
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Infrastructure.dll
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Config.pdb
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Domain.pdb
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\bin\Debug\net7.0\App.Infrastructure.pdb
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.csproj.AssemblyReference.cache
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.AssemblyInfoInputs.cache
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.AssemblyInfo.cs
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.csproj.CoreCompileInputs.cache
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.csproj.CopyComplete
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.dll
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\obj\Debug\net7.0\refint\App.Dependences.dll
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\obj\Debug\net7.0\App.Dependences.pdb
+D:\demo\InfoDesign\LoadExcelProject\App.Dependences\obj\Debug\net7.0\ref\App.Dependences.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.csproj.AssemblyReference.cache
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.AssemblyInfoInputs.cache
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.AssemblyInfo.cs
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.csproj.CoreCompileInputs.cache
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Dependences.deps.json
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Dependences.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Dependences.pdb
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Config.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Domain.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Infrastructure.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Config.pdb
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.csproj.CopyComplete
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\refint\App.Dependences.dll
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.pdb
+C:\Users\PC HP\source\repos\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\ref\App.Dependences.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Dependences.deps.json
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Dependences.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Dependences.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Config.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Domain.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Infrastructure.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Config.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Domain.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\bin\Debug\net7.0\App.Infrastructure.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.csproj.AssemblyReference.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.AssemblyInfoInputs.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.AssemblyInfo.cs
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.csproj.CoreCompileInputs.cache
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.csproj.CopyComplete
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\refint\App.Dependences.dll
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\App.Dependences.pdb
+C:\Users\SoporteTI\OneDrive\Escritorio\Personal\TechnicalAssessmentAPI\TechnicalAssessmentAPI\App.Dependences\obj\Debug\net7.0\ref\App.Dependences.dll
