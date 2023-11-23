@@ -8,7 +8,7 @@ Database/ScriptsBD.
 
 Allí encontraran un archivo llamado DVP_Query.sql, el cual contiene la estructura de la base de datos.
 
-Adicional a esto se ha creado un usuario para las pruebas pertinentes.
+Adicional a esto se han creado dos usuarios para las pruebas pertinentes.
 
 Usuario 1: DVP
 Password: admin123
